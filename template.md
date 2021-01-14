@@ -19,14 +19,17 @@
 ## Usage
 (Usage)
 
+![Screenshot](./assets/())
 ## License
 (License)
 
 ## Contributing
-(contributors)
+(how to contribute)
 
 ## Tests
 (test info)
 
 ## Questions
-(FAQ info)
+If you have any questions, please send them to me through GitHub or email.
+[Github Username](github address)
+[(email address)](email address)
