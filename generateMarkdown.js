@@ -23,7 +23,7 @@ function generateMarkdown(data) {
   
   ![Screenshot](./assets/${data.picturefile})
   ## License
-  ${Data.license}
+  ${data.license}
   
   ## Contributing
   ${data.contribute}
