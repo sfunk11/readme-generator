@@ -10,6 +10,7 @@
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
+  * [Tests](#tests)
   * [Questions](#questions)
   
   ## Installation
@@ -19,12 +20,14 @@
   Once installed, you trigger the program at your command line with the command: “node index.js”.  The application will ask you a series of questions, then create your README.md file based on your answers.
   
   ![Screenshot](./assets/sample.png)
-  ![Video](https://drive.google.com/file/d/1ELOT5hMhJaubP2fo-Q_nHu1V9onZjCWF/view)
   ## License
   MIT
   
   ## Contributing
   To contribute to this package, please contact me on GitHub. (My profile information is in the [Questions](#questions) section below.
+  
+  ## Tests
+  No tests for this sample.
   
   ## Questions
   If you have any questions, please send them to me through GitHub or email.
