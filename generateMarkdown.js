@@ -21,7 +21,7 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
   
-  ![Screenshot](./assets/${data.picturefile})
+  ![Screenshot](${data.picturefile})
   ## License
   ${data.license}
   

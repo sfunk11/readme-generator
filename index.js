@@ -22,7 +22,7 @@ const questions = [
     {
         type: "input",
         name: "picturefile",
-        message: "Please give the filename for a screenshot or video of your app in action",
+        message: "Please give the path for a screenshot or video of your app in action",
     },
     {
         type: "input",
